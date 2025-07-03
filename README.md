@@ -1,5 +1,9 @@
 # Logistics Management System (C# | .NET | WinForms)
 
+<p align="center">
+  <img src="https://github.com/tgishor/Logistics-Management-System-CSharp/blob/main/logo/Asset%203%404x.png?raw=true" alt="Project Logo" width="300"/>
+</p>
+
 A Windows desktop application designed to streamline operations for transport service providers. This system enables administrators and customers to manage job orders, transport assignments, and payments with an intuitive and secure interface.
 
 ---
