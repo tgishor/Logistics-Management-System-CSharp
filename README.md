@@ -43,6 +43,7 @@ A Windows desktop application designed to streamline operations for transport se
 
 Here is a clean, professional `README.md` (Markdown) for your system based on the project described in the PDF — adapted for GitHub:
 
+```plaintext
 Logistics-Management-System/
 ├── Component Design/              # UI mockups and component diagrams
 ├── DFD Diagrams/                  # Data Flow Diagrams for system design
@@ -52,6 +53,7 @@ Logistics-Management-System/
 ├── E-ShiftSystem.sln             # Visual Studio solution file
 ├── LICENSE                        # Project license (MIT)
 └── README.md                      # Project documentation
+```
 
 
 ## 🧪 How to Run
