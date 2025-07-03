@@ -39,22 +39,16 @@ A Windows desktop application designed to streamline operations for transport se
 
 ---
 
-## 🗂️ Project Structure
+### 📁 Project Structure
 
-Here is a clean, professional `README.md` (Markdown) for your system based on the project described in the PDF — adapted for GitHub:
-
-```plaintext
-Logistics-Management-System/
-├── Component Design/              # UI mockups and component diagrams
-├── DFD Diagrams/                  # Data Flow Diagrams for system design
-├── E-ShiftSystem/                 # Main application source code (C# WinForms)
-├── E-ShiftSystem Database Files/ # SQL Server database and scripts
-├── packages/                      # NuGet packages
-├── E-ShiftSystem.sln             # Visual Studio solution file
-├── LICENSE                        # Project license (MIT)
-└── README.md                      # Project documentation
-```
-
+- 📂 **Component Design/** – UI mockups and component diagrams  
+- 📂 **DFD Diagrams/** – Data Flow Diagrams for system design  
+- 🧩 **E-ShiftSystem/** – Main application source code (C# WinForms)  
+- 🗃️ **E-ShiftSystem Database Files/** – SQL Server database and scripts  
+- 📦 **packages/** – NuGet packages  
+- 📝 **E-ShiftSystem.sln** – Visual Studio solution file  
+- 📄 **LICENSE** – Project license (MIT)  
+- 📘 **README.md** – Project documentation
 
 ## 🧪 How to Run
 
